@@ -1,0 +1,27 @@
+{
+  "name": "estudando-typescript",
+  "version": "1.0.0",
+  "description": "curso basico de typescript DIO",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EricOliveiras/estudando-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EricOliveiras/estudando-typescript/issues"
+  },
+  "homepage": "https://github.com/EricOliveiras/estudando-typescript#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "devDependencies": {
+    "typescript": "^4.4.2"
+  }
+}
